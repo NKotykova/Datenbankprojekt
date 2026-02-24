@@ -1,0 +1,14 @@
+# Umgebungsvariablen -- niemals ins Repository!
+.env
+.env.local
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
